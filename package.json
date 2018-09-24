@@ -1,0 +1,22 @@
+{
+  "name": "GreatBigFactoryDotCom",
+  "version": "1.0.0",
+  "description": "Backend for greatbigfactory.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SignalDitch/GreatBigFactoryDotCom.git"
+  },
+  "author": "Nick Poole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SignalDitch/GreatBigFactoryDotCom/issues"
+  },
+  "homepage": "https://github.com/SignalDitch/GreatBigFactoryDotCom",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
