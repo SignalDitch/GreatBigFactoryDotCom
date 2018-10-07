@@ -19,8 +19,8 @@ app.get('/login.html', function (req, res) {
 })  
  
 /* route to handle login and registration */
-app.post('/api/register',registerController.register);
-app.post('/api/authenticate',authenticateController.authenticate);
+app.post('//register',registerController.register);
+app.post('//authenticate',authenticateController.authenticate);
  
 console.log(authenticateController);
 app.post('/controllers/register-controller', registerController.register);
